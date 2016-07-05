@@ -12,6 +12,11 @@ As platforms like [Squarespace](http://squarespace.com) grow, companies are deve
 To prove how unsecure your content is when using these apps, subscribe to the list below using AdBlock.
 
 
+
+## Subscribing to the List
+Copy the subscription link, `https://raw.githubusercontent.com/jasonbarone/membership-app-block-list/master/membership-app-block-list.txt`, into your AdBlock browser plugin options. You're done.
+
+
 ### How It Works
 The text file in this project is a curated list of all of the most popular membership and paywall apps out on the web. When you subscribe to the list, the filters are added to your AdBlock filters.
 
@@ -26,7 +31,7 @@ The text file in this project is a curated list of all of the most popular membe
 There's a few ways to demonstrate how unsecure these apps are:
 
 #### Piano(Tinypass) Market
-Piano has a curated marketplace of their customers. You can check it out here: [http://market.piano.com](http://market.piano.com). Click on any of their customer websites and their content will always be freely available by bypassing Piano's paywall.
+Piano(Tinypass) has a curated marketplace of their customers. You can check it out here: [http://market.tinypass.com](http://market.tinypass.com). Click on any of their customer websites and their content will always be freely available by bypassing Piano's paywall.
 
 #### Search Google using the Domain
 When many users use these membership apps, they end up putting their content into various pages on their website. To find them, simply search for the domain name in Google. ie: `site:example.com`. This will return a list of all of the pages on that domain. If the user uses one of this project's blocked apps, the content will freely available.
