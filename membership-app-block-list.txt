@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Title: Membership App List
 ! Last modified: 05 Jul 2016 01:00 UTC
 ! Homepage: https://github.com/jasonbarone/membership-app-block-list
@@ -7,4 +8,7 @@
 ! or via e-mail (jason@jasonbarone.com).
 !
 !-----------------------Membership app blocking filters-----------------------!
-tinypass
+||tinypass.com^
+!
+!
+!
