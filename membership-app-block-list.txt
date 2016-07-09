@@ -8,8 +8,14 @@
 ! or via e-mail (jason@jasonbarone.com).
 !
 !-----------------------Membership app blocking filters-----------------------!
+!
+!-----------------------Tinypass app blocking filters-------------------------!
 cdn.tinypass.com*
+!-----------------------SentryLogin app blocking filters----------------------!
 sentrylogin.com/sentry/scripts/*
+##.Sentry_blanket
+###SentryOverlay
+!-----------------------MyMemberspace app blocking filters--------------------!
 mymemberspace.com/assets/api/*
 !
 !
