@@ -17,6 +17,7 @@ sentrylogin.com/sentry/scripts/*
 ###SentryOverlay
 !-----------------------MyMemberspace app blocking filters--------------------!
 mymemberspace.com/assets/api/*
+#__memberspace_modal_protected_page
 !
 !
 !
