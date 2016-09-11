@@ -29,6 +29,7 @@ cdn.memberspace.com/*
 ###__memberspace_modal_container
 ###__memberspace_modal_background
 ###__memberspace_memberlogin_button
+###__memberspace_modal_iframe
 !----!
 !----!
 !-----MembershipWorks app blocking filter--!
