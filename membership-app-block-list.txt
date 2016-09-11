@@ -18,6 +18,8 @@ sentrylogin.com/sentry/scripts/*
 !-----------------------MyMemberspace app blocking filters--------------------!
 mymemberspace.com/assets/api/*
 ###__memberspace_modal_protected_page
+!--Membershipworks app blocking filter--!
+cdn.membershipworks.com*
 !
 !
 !
