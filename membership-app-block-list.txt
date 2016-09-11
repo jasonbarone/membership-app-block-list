@@ -25,7 +25,6 @@ sentrylogin.com/sentry/scripts/*
 mymemberspace.com/assets/api/*
 cdn.mymemberspace.com/*
 cdn.memberspace.com/*
-!--memberspace.com/*
 ###__memberspace_modal_protected_page
 ###__memberspace_modal_container
 ###__memberspace_modal_background
