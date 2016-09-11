@@ -7,9 +7,9 @@ Membership App Block List
 ## Project Overview
 Quite a few business owners, entrepreneurs, designers, developers and site builders have a need for membership-based functionality on their web projects.
 
-As platforms like [Squarespace](http://squarespace.com) grow, companies are developing solutions that try to add membership login and authentication to these platforms. The problem is most of them are merely a JavaScript pop-up added to your website that is totally unsecure and falsely claiming to add membership, login and other features.
+As platforms like [Squarespace](http://squarespace.com) grow, companies are developing solutions that try to add membership login and authentication to these platforms. The problem is most of them are merely a JavaScript pop-up added to the website, while the underlying content is public. My issue with this behavior is that users don't fully understand what's going with their content and they **assume** it's securely protected through their Membership app. They're putting all sorts of private information underneath these simple JavaScript overlays. Content like paid products and exclusive material is common, but private documents and usernames/passwords can be found too.
 
-To prove how unsecure your content is when using these apps, subscribe to the list below using AdBlock.
+In my opinion, these Membership apps **should not be promoting their usage** given the very nature of them being security apps. In an effort to demonstrate the state of some of these apps simply subscribe to the list below using AdBlock.
 
 
 
@@ -18,7 +18,7 @@ Copy the subscription link, `https://raw.githubusercontent.com/jasonbarone/membe
 
 
 ### How It Works
-The text file in this project is a curated list of all of the most popular membership and paywall apps out on the web. When you subscribe to the list, the filters are added to your AdBlock filters.
+The text file in this project contains a curated list of filters for all of the most popular membership and paywall apps out on the web. When you subscribe to the list, the filters are added to your AdBlock settings. As long as the you're subscribed to the list, you'll be blocking the pop-up overlays from appearing, exposing the content underneath.
 
 
 ### Blocked Apps
@@ -29,7 +29,7 @@ The text file in this project is a curated list of all of the most popular membe
 
 
 ### Finding Content That Was Previously Blocked
-There's a few ways to demonstrate how unsecure these apps are:
+There's a few ways to demonstrate how unsecure your content is when using these apps:
 
 #### Piano(Tinypass) Market
 Piano(Tinypass) has a curated marketplace of their customers. You can check it out here: [http://market.tinypass.com](http://market.tinypass.com). Click on any of their customer websites and their content will always be freely available by bypassing Piano's paywall.
