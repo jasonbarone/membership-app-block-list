@@ -23,7 +23,9 @@ sentrylogin.com/sentry/scripts/*
 !----!
 !-----MyMemberspace app blocking filters--!
 mymemberspace.com/assets/api/*
-memberspace.com/*
+cdn.mymemberspace.com/*
+cdn.memberspace.com/*
+!--memberspace.com/*
 ###__memberspace_modal_protected_page
 ###__memberspace_modal_container
 ###__memberspace_modal_background
